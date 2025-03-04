@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b741f0-facc-467c-8b2a-6a2ef55ec1f9" name="Changes" comment="" />
+    <list default="true" id="22b741f0-facc-467c-8b2a-6a2ef55ec1f9" name="Changes" comment="Lab-4 start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tirthrajsinh2803/LAB-4.git",
+    "accountId": "8c6f5247-edb1-423b-82a9-3ef828becddf"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -41,7 +47,20 @@
       <option name="presentableId" value="Default" />
       <updated>1741038908129</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab-4 start">
+      <option name="closed" value="true" />
+      <created>1741040625174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741040625174</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab-4 start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab-4 start" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
